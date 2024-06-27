@@ -204,6 +204,10 @@ body {
     padding: 0;
     /* border-bottom: 2px solid rgb(47, 115, 204); */
 }
+.center-container .item-container .items .item1 .info .txt-box1:hover{
+    background-color: rgb(58, 128, 152);
+    transition: 0.3s;
+}
 .center-container .item-container .items .item1 .info .txt-box2 h1{
     font-size: 26px;
     font-family: Arial,"Hanuman", serif;
