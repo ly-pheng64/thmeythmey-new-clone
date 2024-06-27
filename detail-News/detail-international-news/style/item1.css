@@ -185,6 +185,7 @@ body {
     /* width: 40px; */
     padding: 10px;
     height: 20px;
+    margin-left: 5px;
     /* background-color: rgb(160, 110, 95); */
     display: flex;
     border-radius: 3px;
