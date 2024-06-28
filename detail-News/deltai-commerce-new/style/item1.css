@@ -324,6 +324,7 @@ body {
 }
 .center-container .item-container .items .item1 .detail .txt li{
     font-family: Arial,"Hanuman", serif;
+    margin-top: 10px;
     /* margin-top: 30px; */
 }
 .center-container .item-container .items .item1 .icon{
